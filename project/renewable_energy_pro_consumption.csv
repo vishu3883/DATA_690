@@ -1,0 +1,49 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,18.6228260528,EG.ELC.RNEW.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+1,2011,16.7617704328,EG.ELC.RNEW.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+2,2012,19.9662489378,EG.ELC.RNEW.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+3,2013,20.2962273803,EG.ELC.RNEW.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+4,2014,22.609153783,EG.ELC.RNEW.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+5,2015,23.9268171737,EG.ELC.RNEW.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+6,2010,16.0437444355,EG.ELC.RNEW.ZS,IND,India,South Asia,Lower middle income,IBRD
+7,2011,17.3169628565,EG.ELC.RNEW.ZS,IND,India,South Asia,Lower middle income,IBRD
+8,2012,15.7329733609,EG.ELC.RNEW.ZS,IND,India,South Asia,Lower middle income,IBRD
+9,2013,17.3493138262,EG.ELC.RNEW.ZS,IND,India,South Asia,Lower middle income,IBRD
+10,2014,16.2538398153,EG.ELC.RNEW.ZS,IND,India,South Asia,Lower middle income,IBRD
+11,2015,15.3430503455,EG.ELC.RNEW.ZS,IND,India,South Asia,Lower middle income,IBRD
+12,2010,16.6028518856,EG.ELC.RNEW.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+13,2011,14.8888030097,EG.ELC.RNEW.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+14,2012,13.7881312901,EG.ELC.RNEW.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+15,2013,13.2995432623,EG.ELC.RNEW.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+16,2014,17.5435163319,EG.ELC.RNEW.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+17,2015,15.3941337927,EG.ELC.RNEW.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+18,2010,10.1203551472,EG.ELC.RNEW.ZS,USA,United States,North America,High income,Not classified
+19,2011,12.2257135164,EG.ELC.RNEW.ZS,USA,United States,North America,High income,Not classified
+20,2012,12.0073970635,EG.ELC.RNEW.ZS,USA,United States,North America,High income,Not classified
+21,2013,12.6379191223,EG.ELC.RNEW.ZS,USA,United States,North America,High income,Not classified
+22,2014,12.9538270903,EG.ELC.RNEW.ZS,USA,United States,North America,High income,Not classified
+23,2015,13.228593211,EG.ELC.RNEW.ZS,USA,United States,North America,High income,Not classified
+24,2010,12.261300087,EG.FEC.RNEW.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+25,2011,11.3381996155,EG.FEC.RNEW.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+26,2012,11.5367002487,EG.FEC.RNEW.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+27,2013,11.5220003128,EG.FEC.RNEW.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+28,2014,12.0614004135,EG.FEC.RNEW.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+29,2015,12.245300293,EG.FEC.RNEW.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+30,2010,41.1128005981,EG.FEC.RNEW.ZS,IND,India,South Asia,Lower middle income,IBRD
+31,2011,40.5772018433,EG.FEC.RNEW.ZS,IND,India,South Asia,Lower middle income,IBRD
+32,2012,39.3460998535,EG.FEC.RNEW.ZS,IND,India,South Asia,Lower middle income,IBRD
+33,2013,38.1828994751,EG.FEC.RNEW.ZS,IND,India,South Asia,Lower middle income,IBRD
+34,2014,36.0537986755,EG.FEC.RNEW.ZS,IND,India,South Asia,Lower middle income,IBRD
+35,2015,34.3959007263,EG.FEC.RNEW.ZS,IND,India,South Asia,Lower middle income,IBRD
+36,2010,9.3606996536,EG.FEC.RNEW.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+37,2011,9.0670003891,EG.FEC.RNEW.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+38,2012,8.9654998779,EG.FEC.RNEW.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+39,2013,9.2320995331,EG.FEC.RNEW.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+40,2014,9.7589998245,EG.FEC.RNEW.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+41,2015,9.1933002472,EG.FEC.RNEW.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+42,2010,7.4356999397,EG.FEC.RNEW.ZS,USA,United States,North America,High income,Not classified
+43,2011,8.3641996384,EG.FEC.RNEW.ZS,USA,United States,North America,High income,Not classified
+44,2012,8.728099823,EG.FEC.RNEW.ZS,USA,United States,North America,High income,Not classified
+45,2013,9.0832996368,EG.FEC.RNEW.ZS,USA,United States,North America,High income,Not classified
+46,2014,9.2204999924,EG.FEC.RNEW.ZS,USA,United States,North America,High income,Not classified
+47,2015,9.0339002609,EG.FEC.RNEW.ZS,USA,United States,North America,High income,Not classified
