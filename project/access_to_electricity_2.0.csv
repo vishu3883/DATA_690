@@ -1,0 +1,25 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,99.7,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+1,2011,99.8572235107,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+2,2012,99.9648742676,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+3,2013,99.9970092773,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+4,2014,100.0,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+5,2015,100.0,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+6,2010,76.3,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+7,2011,67.6,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+8,2012,79.9,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+9,2013,80.7380447388,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+10,2014,83.5852127075,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+11,2015,88.0,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+12,2010,99.236696,EG.ELC.ACCS.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+13,2011,99.0640945435,EG.ELC.ACCS.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+14,2012,99.111637,EG.ELC.ACCS.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+15,2013,99.2320251465,EG.ELC.ACCS.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+16,2014,99.172928,EG.ELC.ACCS.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+17,2015,99.0,EG.ELC.ACCS.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+18,2010,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+19,2011,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+20,2012,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+21,2013,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+22,2014,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+23,2015,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
